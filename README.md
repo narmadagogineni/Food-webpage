@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Narmada Gogineni
 - 👀 I’m interested in full stack development
-- 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on websites,web applications,frontend and backend projects
 - 
 
