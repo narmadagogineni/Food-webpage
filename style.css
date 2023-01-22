@@ -1,11 +1,4 @@
 /* responsive food ordering webpage */
-/* css box model, css flexbox, css animations */
-
-/* css box model
-    border => thickness, style, color
-    padding
-    margin
-*/
 body{
     background-color: black;
 }
