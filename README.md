@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Narmada Gogineni
-- ------------------------------------------------------------------------------------------------------
-- First of all, thanks for visiting my profile. Here, what you should know about me:
+- 👋 Hi, I’m NARMADA GOGINENI 
+First of all, thanks for visiting my profile. Here, what you should know about me:
 - I am a self driven passionate coder who loves to solve problems and write efficient codes.
 - My primary coding language: Python.
 - I am happy to discuss about: Data Structures and Algorithms, Programming in Python, Javascript, Html/CSS, React, Web development, MySQL, Programming in C and many more.
